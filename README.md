@@ -13,6 +13,12 @@ FYSETC ERCF (EnragedRabbitProject from EtteGit) Kit information
 
 Check the file [N6](https://github.com/FYSETC/FYSETC-ERCF-Kit/blob/main/BOM-N6.xlsx) and [N9](https://github.com/FYSETC/FYSETC-ERCF-Kit/blob/main/BOM-N9.xlsx).
 
+## Known issue
+
+Please check your sensor cable before you power on the kit. The first batch sensor cable is wrong. Swap the black and green wire on XH2.54 connector with a tweezer, or sensor will be disabled.
+
+![]()
+
 ## Buy link
 
 Official
