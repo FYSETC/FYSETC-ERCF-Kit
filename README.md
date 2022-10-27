@@ -15,9 +15,15 @@ Check the file [N6](https://github.com/FYSETC/FYSETC-ERCF-Kit/blob/main/BOM-N6.x
 
 ## Known issue
 
-Please check your sensor cable before you power on the kit. The first batch sensor cable is wrong. Swap the black and green wire on XH2.54 connector with a tweezer, or sensor will be disabled.
+Please check your sensor cable before you power on the kit. The first batch sensor and endstop cable are wrong. For sensor cable, swap the black and green wire on XH2.54 connector with a tweezer, for endstop cable move the black wire to left, or sensor will be disabled.
 
 ![](wrong_wire.jpg)
+
+![](endstop.jpg)
+
+### Correct wring
+
+![](right_wire.jpg)
 
 ## Buy link
 
